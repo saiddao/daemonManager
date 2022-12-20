@@ -1,1 +1,2 @@
-"# daemonManager" 
+DAEMON Manager is the component responsible for managing and supporting the implementation and the DAEMON Ontology. Thus, its architecture is voluntarily conceived as abstract as possible to instantiate its components with available tools. 
+DAEMON Manager is composed of different components collaborating to achieve a common goal,  i.e., providing functionalities and means to share information and knowledge about IoT systems and their components.
